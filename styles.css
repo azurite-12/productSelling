@@ -94,7 +94,12 @@ i {
     color: goldenrod;
 }
 
-h2 {
+#intro h2 {
+    color: #8484ff;
+    text-align: center;
+}
+
+#features h2 {
     color: #8484ff;
 }
 
